@@ -1,0 +1,9 @@
+{
+  "name": "light-of-life-attendance",
+  "version": "2.0.0",
+  "description": "Attendance monitoring and songbook for Light of Life Church",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node --test test/chords.test.js" },
+  "engines": { "node": ">=22.5.0" },
+  "license": "MIT"
+}
